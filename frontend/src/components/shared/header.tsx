@@ -11,7 +11,7 @@ const Header = () => {
     })
   return (
     <div className='w-full h-16 bg-blue-100 flex items-center justify-between p-2 px-4'>
-        <h1 className='text-2xl font-bold'>Bhutan Public Treasury</h1>
+        <h1 className='text-2xl font-bold'>🇧🇹 Bhutan Public Treasury</h1>
         <div className='flex h-full items-center gap-2'>
             <div className='flex items-center gap-2 text-sm bg-blue-800 text-white h-10 rounded-xl p-2 px-4'>
                 <p className='text-sm'>Treasury Balance: {' '}</p>

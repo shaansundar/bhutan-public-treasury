@@ -3,7 +3,7 @@ import { Github, Linkedin, Twitter } from 'lucide-react'
 
 const Footer = () => {
     return (
-        <div className='w-full h-8 flex items-center justify-between px-4 bg-blue-100 text-xs'>
+        <div className='w-full fixed bottom-0 h-8 flex items-center justify-between px-4 bg-blue-100 text-xs'>
             <p className='text-blue-950'>
                 Made as a prototype submission for E-Bhutan Hackathon 2025 by Shaan Sundar
             </p>
